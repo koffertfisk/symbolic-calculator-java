@@ -2,7 +2,7 @@
 Symbolic calculator developed in Java that parses expressions symbol-by-symbol and evaluates results according to an Absract Syntax Tree (AST). 
 
 ## Dependencies
-- `javac` Java compiler and `java` runtime (OpenJDK for example)
+- `javac` Java compiler `java` runtime and `javadoc` (if necessary) (OpenJDK for example)
 
 ## Building The Application
 To compile and run:
